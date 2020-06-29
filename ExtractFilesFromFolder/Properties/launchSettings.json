@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExtractFilesFromFolder": {
+      "commandName": "Project",
+      "commandLineArgs": "\"G:\\fotos mac\""
+    }
+  }
+}
